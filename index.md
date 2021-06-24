@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my special blog"
+title: "Invest in the future - PongBucks"
 ---
 
 I'm glad you are here. I plan to talk about how PongBucks(patent pending) is the currency of the future.
