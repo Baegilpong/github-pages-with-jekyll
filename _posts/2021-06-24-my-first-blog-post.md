@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "PongBucks Status Update 1"
+date: 2021-06-24
 ---
 
-A quick blog post goes here
+This startup has been cancelled due to the owner's inability to successfully get sponsors to fund the idea.
