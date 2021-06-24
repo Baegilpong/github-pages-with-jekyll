@@ -2,9 +2,9 @@ title: My Shark Tank Sales Pitch
 author: Baegilpong
 email: pnguyen003@citymail.cuny.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is an assignment for the CS Summer Internship Prep Class
+  All things on here are not legitimate and are only there for
+  comedic and testing purposes, unless someone is willing  to fund.
 theme: minima
 # social links
 twitter_username: None # DO NOT include the @ character, or else the build will fail!
